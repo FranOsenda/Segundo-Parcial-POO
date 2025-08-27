@@ -1,0 +1,6 @@
+C:\Users\franc\Desktop\ICES\Programacion 1\Segundo Parcial Osenda Francisco\Segundo-Parcial-POO\Segundo Parcial Osenda Francisco\Clases\bin\Debug\Clases.dll
+C:\Users\franc\Desktop\ICES\Programacion 1\Segundo Parcial Osenda Francisco\Segundo-Parcial-POO\Segundo Parcial Osenda Francisco\Clases\bin\Debug\Clases.pdb
+C:\Users\franc\Desktop\ICES\Programacion 1\Segundo Parcial Osenda Francisco\Segundo-Parcial-POO\Segundo Parcial Osenda Francisco\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\ICES\Programacion 1\Segundo Parcial Osenda Francisco\Segundo-Parcial-POO\Segundo Parcial Osenda Francisco\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\ICES\Programacion 1\Segundo Parcial Osenda Francisco\Segundo-Parcial-POO\Segundo Parcial Osenda Francisco\Clases\obj\Debug\Clases.dll
+C:\Users\franc\Desktop\ICES\Programacion 1\Segundo Parcial Osenda Francisco\Segundo-Parcial-POO\Segundo Parcial Osenda Francisco\Clases\obj\Debug\Clases.pdb
